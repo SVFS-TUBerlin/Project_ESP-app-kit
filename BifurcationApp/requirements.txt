@@ -1,0 +1,8 @@
+streamlit
+pyfurc
+matplotlib
+sympy
+numpy
+pillow
+reportlab
+pandas
