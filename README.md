@@ -4,6 +4,7 @@ Python-based Bifurcation App &amp; 3D printing files (STL) for Elastic Stability
 The Elastic Stability Phenomena Kit 2.0 and the Bifurcation App serve as an intuitive toolkit for engineering students to make mechanics tangible.  It can also be used as a haptic and playful addition to a presentation or in teaching, e.g. during a lecture.
 
 You can find more information on the Kit and the corresponding Bifurcation App here: https://www.appropedia.org/Elastic_Stability_Phenomena_Kit_2.0
+
 All 3D printing files are also available on Thingiverse: https://www.thingiverse.com/thing:6945398
 
 
